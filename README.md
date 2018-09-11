@@ -1,5 +1,7 @@
 Your First API, in Python
 ======================
+*Thanks Devin for letting me fork and teaching!!!!*
+https://github.com/devinmatte
 
 Dependencies
 ------------
